@@ -1,0 +1,12 @@
+.text-center {
+
+	max-height: 400px;
+	margin: auto;
+	float:left;
+}
+
+.col-xs-6 {
+	max-height: 400px;
+	margin: auto;
+	float:left;
+}
